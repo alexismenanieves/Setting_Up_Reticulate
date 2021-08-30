@@ -19,6 +19,8 @@ conda_create(envname = "Learning",
 ```
 Note that I specified the python version I want. 
 
+## Step 2. Invoke the environment
+
 After running the code, all you need is to invoke the environment with 
 this code:
 ```
