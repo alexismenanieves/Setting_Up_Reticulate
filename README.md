@@ -22,7 +22,7 @@ Note that I specified the python version I want.
 ## Step 2. Invoke the environment
 
 After running the code, all you need is to invoke the environment with 
-this code:
+this code (in R):
 ```
 use_condaenv("Learning", required = TRUE)
 ```
